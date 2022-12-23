@@ -1,0 +1,14 @@
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\bin\Debug\net6.0\MovieSite.Entity.deps.json
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\bin\Debug\net6.0\MovieSite.Entity.runtimeconfig.json
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\bin\Debug\net6.0\MovieSite.Entity.dll
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\bin\Debug\net6.0\MovieSite.Entity.pdb
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\obj\Debug\net6.0\MovieSite.Entity.csproj.AssemblyReference.cache
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\obj\Debug\net6.0\MovieSite.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\obj\Debug\net6.0\MovieSite.Entity.AssemblyInfoInputs.cache
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\obj\Debug\net6.0\MovieSite.Entity.AssemblyInfo.cs
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\obj\Debug\net6.0\MovieSite.Entity.csproj.CoreCompileInputs.cache
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\obj\Debug\net6.0\MovieSite.Entity.dll
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\obj\Debug\net6.0\refint\MovieSite.Entity.dll
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\obj\Debug\net6.0\MovieSite.Entity.pdb
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\obj\Debug\net6.0\MovieSite.Entity.genruntimeconfig.cache
+C:\Users\kkara\OneDrive\Masaüstü\case\MovieSite\MovieSite.Entity\obj\Debug\net6.0\ref\MovieSite.Entity.dll
